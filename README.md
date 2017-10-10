@@ -6,7 +6,8 @@
 ## Installation
 
 1. Add travis integration to your github repository.
-2. Add the following `.travis.yml` file.
+2. Create *.travis.yml* file with the following content **👇**.
+
     ```yaml
         sudo: required
         language: generic
@@ -21,4 +22,4 @@
         except:
             - /^debian\/\d/
     ```
-3. Push your code to your Repository to build your app.
+3. Push code to your Repository to build your app on travis.
