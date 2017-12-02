@@ -1,5 +1,5 @@
 # Element build
-> Helps you build and your elementary os apps on travis!
+> Helps you build your elementary os apps on travis,just like on elementary appcenter.
 
 > Forked from travis.debian.net to fit elementary os needs.
 
